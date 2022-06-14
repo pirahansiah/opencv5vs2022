@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+.git/*.*
+.vs/*.*
+
+.vs\
+.git\
+
+.vs/
+.git/
+
+.git
+.vs
